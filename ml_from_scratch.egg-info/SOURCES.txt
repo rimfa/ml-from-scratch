@@ -1,0 +1,9 @@
+pyproject.toml
+ml_from_scratch.egg-info/PKG-INFO
+ml_from_scratch.egg-info/SOURCES.txt
+ml_from_scratch.egg-info/dependency_links.txt
+ml_from_scratch.egg-info/requires.txt
+ml_from_scratch.egg-info/top_level.txt
+src/linear_models.py
+src/losses.py
+src/optimizers.py
